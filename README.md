@@ -14,12 +14,8 @@ Cover the following Python data science libraries
 * Scikit-learn
 
 ## Jupyter Notebook
-We have finally arrived at my personal favorite environment for doing data science. Jupyter Notebooks provide a web-based interface to a number of different programming languages. The project was originally titled "iPython notebook" and was specifically built for just iPython as a backend. It turned out that notebooks are a very popular way to develop. To accomodate other languages that project was retitled Jupyter for the languages **JU**lia, **PY**thon and **R**. The Jupyter project now works with over 50 different language "kernels" of which IPython is just one.
+We will use Jupyter Notebook as our programming environment.
 
-The rest of this tutorial will take place in Jupyter Notebooks.
 
-> 1. Open a terminal and run `jupyter notebook`
-> 1. Open up the first notebook `0 Jupyter Intro`
-
-[1]: (https://www.meetup.com/Houston-Data-Science/) 
+[1]: (https://www.meetup.com/Houston-Data-Science/events/252759191/)
 [2]: https://github.com/HoustonDataScience/Intro-to-Python
