@@ -8,8 +8,6 @@ Follow the tutorial in the [Intro to Python][2] repository in order to install t
 Cover the following Python data science libraries
 * NumPy
 * Pandas
-* Statsmodels
-* Matplotlib
 * Seaborn
 * Scikit-learn
 
